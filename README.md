@@ -33,6 +33,8 @@ O projeto segue as seguintes camadas:
 │   ├── bronze/
 │   ├── silver/
 │   └── gold/
+├── pipelines/silver-qualidade
+│   ├── transformations/
 └── README.md
 ```
 
@@ -73,6 +75,8 @@ The project follows these layers:
 │   ├── bronze/
 │   ├── silver/
 │   └── gold/
+├── pipelines/silver-qualidade
+│   ├── transformations/
 └── README.md
 ```
 
